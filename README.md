@@ -1,2 +1,5 @@
 # NFLRedzone
- The (now deprecated) website can be locally viewed by running the index.html in a web server using a range of VS Code Extensions
+## The website's URL is no longer being hosted, but it can be viewed locally by downloading these files and clicking on the index.html 
+
+##### Do keep in mind this was made when I was 16 years old
+
