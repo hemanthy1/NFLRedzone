@@ -1,0 +1,39 @@
+Third Down Logo: 
+website: https://www.vectorstock.com/royalty-free-vector/fire-swoosh-football-logo-icon-vector-1265660
+image: 
+
+The Red Zone Logo
+website: https://www.vectorstock.com/royalty-free-vector/american-football-logo-icons-vector-4140184
+image:
+
+Giants Stadium Background: https://fortunedotcom.files.wordpress.com/2016/12/rtr4cp5a.jpg
+website: https://fortune.com/2016/12/29/espn-monday-night-football-season/
+image: https://fortunedotcom.files.wordpress.com/2016/12/rtr4cp5a.jpg
+
+Free Agency:
+website: https://www.sbnation.com/nfl-free-agency
+image: https://cdn.vox-cdn.com/thumbor/g7_Dtg6SAkgEKhOwP6-9syybcb4=/0x0:2885x1924/1200x800/filters:focal(1400x701:1860x1161)/cdn.vox-cdn.com/uploads/chorus_image/image/63228675/1063253994.jpg.0.jpg
+
+Contract Extensions:
+website: https://nypost.com/2019/01/04/russell-wilson-still-can-be-the-difference-maker-for-seahawks/
+image:  https://thenypost.files.wordpress.com/2019/01/russell_wilson-1.jpg?quality=90&strip=all
+
+Injury Updates:
+website: https://www.upi.com/Sports_News/NFL/2018/10/12/Fantasy-Football-Whos-In-Whos-Out-Week-6-NFL-injury-report/1071539395166/
+image: https://cdnph.upi.com/svc/sv/upi/1071539395166/2018/1/2c5514a422dde6ac1c1d69df891ac3af/Fantasy-Football-Whos-In-Whos-Out-Week-6-NFL-injury-report.jpg
+
+Trades:
+website: https://www.behindthesteelcurtain.com/2019/6/26/18715592/with-antonio-brown-gone-will-the-steelers-see-more-cover-1-from-defenses-bill-belichick-nfl-news
+image: https://cdn.vox-cdn.com/thumbor/bAk81_UZWU1fBCxCBtKbgsYxF6U=/0x0:4280x2994/1200x800/filters:focal(1620x933:2304x1617)/cdn.vox-cdn.com/uploads/chorus_image/image/64132244/usa_today_11894517.0.jpg
+
+Mid-Season Cuts:
+website: https://www.patspulpit.com/2017/9/7/16256908/introducing-the-chiefs-defense-eric-berry-marcus-peters-justin-houston-more-playmakers
+image: https://cdn.vox-cdn.com/thumbor/EvV9V56UcUW7GswFEeSeNv3z2Jk=/0x0:2301x3156/1200x800/filters:focal(789x973:1157x1341)/cdn.vox-cdn.com/uploads/chorus_image/image/56562833/610466078.0.jpg
+
+Miscellaneous:
+website: https://nypost.com/2019/07/10/todd-gurley-injury-mystery-deepens-i-have-it/
+image: https://thenypost.files.wordpress.com/2019/07/todd-gurley-knee-injury-rams-training-camp.jpg?quality=90&strip=all&w=1200
+
+NFL Team Logos: 
+website: http://loodibee.com/nfl/
+images: 
